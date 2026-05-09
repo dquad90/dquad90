@@ -3,11 +3,11 @@
 
 <!-- ADDED GIF HERE -->
 <p align="center">
-  <img src="PUT_YOUR_GIF_LINK_HERE.gif" alt="Anime boy with cats" width="250" />
+  <img src="mp_gif.gif" alt="Anime boy with cats" width="250" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dquad90&label=Profile%20views&color=0e75b6&style=flat" alt="dquad90 profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dquad90&label=Profile%20Views&color=00ff00&style=plastic&icon=github" alt="dquad90 profile views" />
 </p>
 
 ---
