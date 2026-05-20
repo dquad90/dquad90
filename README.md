@@ -15,8 +15,8 @@
 ### 🔭 About Me
 
 - 🔭 I’m currently working on **BookSwap - Book Exchange Platform, An Android App.**
-- 🌱 I’m currently learning **Android Studio, Unreal Engine, Trading**
-- 💬 Ask me about **Gaming, Esports, Game development, AI prompts, CFD Trading**
+- 🌱 I’m currently learning **Android Studio, Unreal Engine**
+- 💬 Ask me about **Gaming, Esports, Game development, AI prompts**
 - 📫 How to reach me: **sindidas90@gmail.com** or **dquadofficialgg@gmail.com**
 - ⚡ Fun fact: **I LOVE CATS 🐈**
 
