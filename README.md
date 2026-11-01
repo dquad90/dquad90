@@ -1,5 +1,5 @@
 <h1 align="center">👋 What's Up? Nǐ hǎo, Wǒ shì Darunnaim Sindid</h1>
-<h3 align="center">A passionate gamer and beginner game developer from Bangladesh.</h3>
+<h3 align="center">A passionate gamer and beginner game developer.</h3>
 
 <!-- ADDED GIF HERE -->
 <p align="center">
@@ -15,7 +15,7 @@
 ### 🔭 About Me
 
 - 🔭 I’m currently working on **BookSwap - Book Exchange Platform, An Android App.**
-- 🌱 I’m currently learning **Android Studio, Unreal Engine**
+- 🌱 I’m currently learning **Android Studio, Unreal Engine, GODOT Engine**
 - 💬 Ask me about **Gaming, Esports, Game development, AI prompts**
 - 📫 How to reach me: **sindidas90@gmail.com** or **dquadofficialgg@gmail.com**
 - ⚡ Fun fact: **I LOVE CATS 🐈**
