@@ -19,17 +19,29 @@
 
 </div>
 
-<div align="center">
+---
 
-| 🧭 Objective | 📋 Description & Details |
-| :--- | :--- |
-| 🔭 **Current Project** | Building **BookSwap** — A peer-to-peer book exchange platform on Android |
-| 🌱 **Skill Tree** | Leveling up **Godot Engine**, **Unreal Engine 5**, **GDScript**, & Android |
-| 💬 **Ask Me About** | Gaming & Esports, Game Dev Mechanics, C++/C#, Laravel, AI Prompts |
-| 📫 **Summon Point** | [sindidas90@gmail.com](mailto:sindidas90@gmail.com) • [dquadofficialgg@gmail.com](mailto:dquadofficialgg@gmail.com) |
-| ⚡ **Passive Trait** | **Felid Affinity:** Cats deal 100% emotional critical damage 🐈 |
+<!-- RPG Quest Board Section -->
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎯 Active Quests</h3>
+      <br/>
+      <p>🚀 <b>Main Quest:</b> Architecting <b>BookSwap</b> — A peer-to-peer book exchange app on Android</p>
+      <p>🌱 <b>Skill Tree Focus:</b> Mastering <b>Godot Engine</b> & <b>Unreal Engine 5</b> with <b>GDScript</b></p>
+      <p>📱 <b>Sub-Quest:</b> Exploring modern Android architecture & reactive design</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Player Intel & Stats</h3>
+      <br/>
+      <p>💬 <b>Party Chat:</b> Esports, game mechanics, C++/C#, Laravel, and AI Prompts</p>
+      <p>📫 <b>Summon Point:</b> <a href="mailto:sindidas90@gmail.com"><code>sindidas90@gmail.com</code></a></p>
+      <p>🐈 <b>Passive Buff:</b> Cats have a 100% critical hit chance on my heart</p>
+    </td>
+  </tr>
+</table>
 
-</div>
+---
 
 <h3 align="center">🎮 Gaming Lineup</h3>
 
@@ -100,21 +112,21 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dquad90&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dquad90&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=dquad90&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=dquad90&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dquad90&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak Stats" />
+  <img src="https://streak-stats.vercel.app/?user=dquad90&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak Stats" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dquad90&theme=onedark&no-frame=true&margin_w=10" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophies.vercel.app/?username=dquad90&theme=onedark&no-frame=true&margin_w=10" alt="GitHub Trophies" />
   </a>
 </div>
 
