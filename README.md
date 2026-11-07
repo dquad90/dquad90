@@ -19,17 +19,17 @@
 
 </div>
 
----
+<div align="center">
 
-### 🕹️ About Me & Current Quests
+| 🧭 Objective | 📋 Description & Details |
+| :--- | :--- |
+| 🔭 **Current Project** | Building **BookSwap** — A peer-to-peer book exchange platform on Android |
+| 🌱 **Skill Tree** | Leveling up **Godot Engine**, **Unreal Engine 5**, **GDScript**, & Android |
+| 💬 **Ask Me About** | Gaming & Esports, Game Dev Mechanics, C++/C#, Laravel, AI Prompts |
+| 📫 **Summon Point** | [sindidas90@gmail.com](mailto:sindidas90@gmail.com) • [dquadofficialgg@gmail.com](mailto:dquadofficialgg@gmail.com) |
+| ⚡ **Passive Trait** | **Felid Affinity:** Cats deal 100% emotional critical damage 🐈 |
 
-- 🔭 **Current Project:** Building **BookSwap** — A peer-to-peer book exchange platform on Android.
-- 🌱 **Learning & Exploring:** Godot Engine, Unreal Engine 5, GDScript, and advanced Android architecture.
-- 💬 **Ask Me About:** Gaming, esports, game mechanics, C++/C#, Laravel, and AI prompts.
-- 📫 **Reach Me:** [sindidas90@gmail.com](mailto:sindidas90@gmail.com) • [dquadofficialgg@gmail.com](mailto:dquadofficialgg@gmail.com)
-- ⚡ **Fun Fact:** Cats have a 100% critical hit chance on my heart 🐈
-
----
+</div>
 
 <h3 align="center">🎮 Gaming Lineup</h3>
 
