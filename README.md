@@ -1,60 +1,144 @@
-<h1 align="center">👋 What's Up? Nǐ hǎo, Wǒ shì Darunnaim Sindid</h1>
-<h3 align="center">A passionate gamer and beginner game developer.</h3>
-
-<!-- ADDED GIF HERE -->
-<p align="center">
-  <img src="mp_gif.gif" alt="Anime boy with cats" width="250" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dquad90&label=Profile%20Views&color=00ff00&style=plastic&icon=github" alt="dquad90 profile views" />
-</p>
-
----
-
-### 🔭 About Me
-
-- 🔭 I’m currently working on **BookSwap - Book Exchange Platform, An Android App.**
-- 🌱 I’m currently learning **Android Studio, Unreal Engine, GODOT Engine**
-- 💬 Ask me about **Gaming, Esports, Game development, AI prompts**
-- 📫 How to reach me: **sindidas90@gmail.com** or **dquadofficialgg@gmail.com**
-- ⚡ Fun fact: **I LOVE CATS 🐈**
-
----
-
-<h3 align="center">Connect with me</h3>
-
 <div align="center">
-  <a href="https://linkedin.com/in/darunnaim-sindid" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /></a>&nbsp;<a href="https://fb.com/sindid.90" target="_blank"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" /></a>&nbsp;<a href="https://instagram.com/sindid.mew" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" /></a>&nbsp;<a href="https://www.youtube.com/c/@dquaddq" target="_blank"><img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" /></a>&nbsp;<a href="https://discord.gg/wwYBr5zd2w" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" /></a>
+
+  <h1>👋 Nǐ hǎo, Wǒ shì Darunnaim Sindid</h1>
+
+  <!-- Dynamic Typing Subtitle -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61AFEF&center=true&vCenter=true&width=435&lines=Passionate+Gamer+%F0%9F%8E%AE;Indie+Game+Developer+%F0%9F%94%B9;Android+%26+Mobile+App+Dev+%F0%9F%93%B1;Cat+Lover+%26+Tech+Explorer+%F0%9F%90%88" alt="Typing SVG" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Profile GIF (Keep mp_gif.gif in your repository root) -->
+  <img src="mp_gif.gif" alt="Anime boy with cats" width="280" style="border-radius: 12px;" />
+
+  <br/><br/>
+
+  <!-- Profile Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=dquad90&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="dquad90 profile views" />
+
 </div>
 
 ---
 
-<h3 align="center">Languages and Tools</h3>
+### 🕹️ About Me & Current Quests
+
+- 🔭 **Current Project:** Building **BookSwap** — A peer-to-peer book exchange platform on Android.
+- 🌱 **Learning & Exploring:** Godot Engine, Unreal Engine 5, GDScript, and advanced Android architecture.
+- 💬 **Ask Me About:** Gaming, esports, game mechanics, C++/C#, Laravel, and AI prompts.
+- 📫 **Reach Me:** [sindidas90@gmail.com](mailto:sindidas90@gmail.com) • [dquadofficialgg@gmail.com](mailto:dquadofficialgg@gmail.com)
+- ⚡ **Fun Fact:** Cats have a 100% critical hit chance on my heart 🐈
+
+---
+
+<h3 align="center">🎮 Gaming Lineup</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,graphql,go,rust,nestjs,py,aws" height="40" alt="skillicons" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook" />&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>&nbsp;<img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
-  <br /><br />
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>&nbsp;<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>&nbsp;<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>&nbsp;<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>&nbsp;<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  <br /><br />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>&nbsp;<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;<img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/>&nbsp;<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>&nbsp;<img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Fortnite-0078F2?style=for-the-badge&logo=fortnite&logoColor=white" alt="Fortnite" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Valorant-FF4655?style=for-the-badge&logo=valorant&logoColor=white" alt="Valorant" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Marvel%20Rivals-E62429?style=for-the-badge&logo=marvel&logoColor=white" alt="Marvel Rivals" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PUBG-F3A000?style=for-the-badge&logo=pubg&logoColor=black" alt="PUBG" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Call%20of%20Duty-000000?style=for-the-badge&logo=callofduty&logoColor=white" alt="Call of Duty" />
 </div>
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
+<h3 align="center">🤖 AI</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dquad90&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dquad90&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 </div>
-<br />
+
+---
+
+<h3 align="center">🛠️ Tech Arsenal</h3>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dquad90&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" alt="Streak Stats" />
+
+  <!-- Game Dev & 3D -->
+  <p><b>🕹️ Game Development & 3D Modeling</b></p>
+  <img src="https://skillicons.dev/icons?i=unreal,unity,godot,blender" alt="Game Dev" />
+  <br/><br/>
+
+  <!-- Mobile Development -->
+  <p><b>📱 Mobile Development</b></p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,kotlin,java" alt="Mobile Dev" />
+  <br/><br/>
+
+  <!-- Core Languages -->
+  <p><b>💻 Core Languages</b></p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,c,py,php,go,matlab" alt="Languages" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript" />
+  <br/><br/>
+
+  <!-- Web & Backend -->
+  <p><b>🌐 Web, Backend & Cloud</b></p>
+  <img src="https://skillicons.dev/icons?i=laravel,postgres,mysql,mongodb,firebase,appwrite,aws" alt="Web and Backend" />
+  <br/><br/>
+
+  <!-- Tools & Productivity -->
+  <p><b>🎨 Tools & Productivity</b></p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,figma,ai,sketch,arduino,storybook" alt="Tools" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/ANTIGRAVITY-1A73E8?style=for-the-badge&logoColor=white" alt="Antigravity" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" alt="Google Docs" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Google Sheets" />
+
 </div>
-<br />
+
+---
+
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dquad90&show_icons=true&locale=en&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dquad90&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="165" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dquad90&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10" alt="Streak Stats" />
+</div>
+
+<br/>
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dquad90" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dquad90&theme=onedark&no-frame=true&margin_w=10" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+<h3 align="center">🌐 Connect With Me</h3>
+
+<div align="center">
+  <a href="https://linkedin.com/in/darunnaim-sindid" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://discord.gg/wwYBr5zd2w" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://www.youtube.com/c/@dquaddq" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://instagram.com/sindid.mew" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://fb.com/sindid.90" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:sindidas90@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
